@@ -58,16 +58,13 @@ section#redeslogo img:hover{
    
 }
 
-@media (min-width: 600px)
+@media (max-width: 600px)
 {
     section#redeslogo img{
-        width: 80px;
+        width: 70px;
         margin: 10px;
     }
-
-   
 
 
 
 }
-    
